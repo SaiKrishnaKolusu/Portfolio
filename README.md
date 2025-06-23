@@ -10,7 +10,11 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 
 ## Key Insights Uncovered:
 **Demographics Overview**: Understand the distribution of age groups and gender to better segment audiences.
+
 **Style Preferences**: Identify the most popular daily outfits and favorite color palettes.
+
 **Shopping Habits**: Analyze shopping frequency trends and the key influences on purchases.
+
 **Lifestyle Insights**: Discover correlations between activity levels and personality reflection scores.
+
 **Custom Metrics**: Dynamic KPIs monitor engagement levels and trends in real time.
