@@ -27,7 +27,7 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 **Interactive Data Exploration**: The dashboard offers the ability to drill down into the data using complex parameters, providing users with a seamless experience to customize visualizations using filters and slicers
 
 **Customized Visualizations**: Leveraging the versatility of Power BI, I crafted an array of customized visualizations, including bar charts, donut charts, cluster bar charts, scatter charts, line charts, area charts, and slicers.
-## Key Insights Unveiled:
+## Key Insights Uncovered:
 **Revenue Breakdown by State**: Identify top-performing regions and focus on growth opportunities in specific states.
 
 **Quantity Sold by Category**: Analyze product categories to understand customer preferences and optimize inventory management.
