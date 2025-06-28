@@ -24,14 +24,24 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 
 
 ## Project Highlights:
+**Interactive Data Exploration**: The dashboard offers the ability to drill down into the data using complex parameters, providing users with a seamless experience to customize visualizations using filters and slicers
+
 **Customized Visualizations**: Leveraging the versatility of Power BI, I crafted an array of customized visualizations, including bar charts, donut charts, cluster bar charts, scatter charts, line charts, area charts, and slicers.
 ## Key Insights Unveiled:
 **Revenue Breakdown by State**: Identify top-performing regions and focus on growth opportunities in specific states.
+
 **Quantity Sold by Category**: Analyze product categories to understand customer preferences and optimize inventory management.
+
 **Revenue by Customer**: Identify high-value customers and tailor personalized strategies to enhance customer satisfaction.
+
 **Quantity Sold by Payment Mode**: Understand payment preferences and streamline payment methods to improve conversion rates.
+
 **Monthly Profit Analysis**: Track monthly profitability trends to plan budgets and forecast future performance.
+
 **Profits by Subcategory**: Pinpoint lucrative subcategories and prioritize marketing efforts for maximum returns.
+
 **Total Revenue & Sold Quantity**: Monitor overall sales performance to gauge business growth and success.
+
 **Average Order Value**: Understand customer spending patterns to increase average transaction value.
+
 **Total Profits through Ecommerce**: Measure the overall success of your ecommerce venture and set ambitious goals.
