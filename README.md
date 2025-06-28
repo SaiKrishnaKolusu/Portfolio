@@ -20,7 +20,7 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 **Custom Metrics**: Dynamic KPIs monitor engagement levels and trends in real time.
 
 
-## [Ecommerce-Sales-Dashboard](https://saikrishnakolusu.github.io/PowerBI-Ecommerce-Sales-Dashboard/)
+## [Ecommerce Sales Dashboard](https://saikrishnakolusu.github.io/PowerBI-Ecommerce-Sales-Dashboard/)
 
 
 ## Project Highlights:
