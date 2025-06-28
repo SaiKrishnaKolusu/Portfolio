@@ -24,7 +24,7 @@ Welcome to my personal portfolio! This repository showcases my skills, projects,
 
 
 ## Project Highlights:
-**Customized Visualizations**: Leveraging the versatility of Power BI, I crafted an array of customized visualizations, including bar charts, donut charts, cluster bar charts, scatter charts, line charts, area charts, and slicers. These visualizations present sales data in a visually appealing manner, making it easier for stakeholders to grasp key insights at a glance.
+**Customized Visualizations**: Leveraging the versatility of Power BI, I crafted an array of customized visualizations, including bar charts, donut charts, cluster bar charts, scatter charts, line charts, area charts, and slicers.
 ## Key Insights Unveiled:
 **Revenue Breakdown by State**: Identify top-performing regions and focus on growth opportunities in specific states.
 **Quantity Sold by Category**: Analyze product categories to understand customer preferences and optimize inventory management.
