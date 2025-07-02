@@ -83,3 +83,38 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 
 - **Experience Duration:**  
   The average tenure before leaving is 7 years, offering insights for improving mid-tenure engagement programs.
+
+
+## [Retail Sales Analytics Dashboard](https://saikrishnakolusu.github.io/PowerBI-Stores-Sales-Dashboard/)
+
+## Project Highlights:
+- **All-in-One Retail Intelligence:**  
+  Combines historical performance and predictive sales forecasting in a single unified dashboard to support data-driven decisions.
+
+- **Sales Forecasting:**  
+  Predicts sales for the next 15 days using historical sales data (2019–2020) with confidence intervals and trend smoothing.
+
+- **Customer & Segment Analysis:**  
+  Evaluates revenue distribution across Consumer, Corporate, and Home Office segments with associated payment preferences.
+
+- **Product Category Breakdown:**  
+  Deep dive into sales by category and subcategory (e.g., Phones, Chairs) to identify high-performing items.
+
+- **Shipping & Delivery Trends:**  
+  Tracks preferred delivery methods (Standard Class, Second Class, etc.) and average delivery timelines.
+
+- **Geographic Visualization:**  
+  Interactive maps and bar charts visualize top-performing states and regional sales differences.
+
+- **Interactive Time Series Exploration:**  
+  Includes zoomable and scrollable charts to explore detailed historical sales trends and spikes.
+
+## Key Insights Uncovered:
+- **Total Sales reached 1.6M** with over **22.3K units sold** and **175.3K in profit**  
+- **California, New York, and Texas** are the top 3 states by sales volume  
+- **Phones top subcategory** with $0.20M in sales, followed by Chairs and Binders  
+- **COD leads all payment modes** with 42.62%, reflecting customer trust trends  
+- **Consumer segment** drives nearly half of overall business  
+- **Forecast shows sustained growth** entering January 2021, supported by historical peaks in late 2020  
+- **Confidence bands** validate the forecasting reliability for operational and supply planning  
+
