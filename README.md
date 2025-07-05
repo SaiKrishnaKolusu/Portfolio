@@ -87,6 +87,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
   The average tenure before leaving is 7 years, offering insights for improving mid-tenure engagement programs.
 
 📎 **Screenshot**
+
 ![Attrition Analytics Dashboard](./Attrition%20Analytics.png)
 
 ## [Retail Sales Analytics Dashboard](https://saikrishnakolusu.github.io/PowerBI-Stores-Sales-Dashboard/)
