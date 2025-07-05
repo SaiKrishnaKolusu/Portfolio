@@ -128,6 +128,5 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 - **Confidence bands** validate the forecasting reliability for operational and supply planning
 
 [Sales](https://github.com/SaiKrishnaKolusu/PowerBI-Stores-Sales-Dashboard/blob/e1282cba2e48efefb3dab669296f83b7b7a13d0d/Store%20Sales.png)
-
 [Forecast](https://github.com/SaiKrishnaKolusu/PowerBI-Stores-Sales-Dashboard/blob/e1282cba2e48efefb3dab669296f83b7b7a13d0d/Sales%20Forecast.png)
 
