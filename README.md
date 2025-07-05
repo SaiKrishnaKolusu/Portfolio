@@ -21,7 +21,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 
 📎 **Screenshot**
 
-![Fashion Insights]([./Fashion%20Insights.png](https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard/blob/3b2af29f8a7a4843ed2caf8fbb122d8a1d973d91/Fashion%20Insights.png)
+([./Fashion%20Insights.png](https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard/blob/3b2af29f8a7a4843ed2caf8fbb122d8a1d973d91/Fashion%20Insights.png)
 
 ## [Ecommerce Sales Dashboard](https://saikrishnakolusu.github.io/PowerBI-Ecommerce-Sales-Dashboard/)
 
@@ -89,7 +89,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 
 📎 **Screenshot**
 
-![Attrition Analytics Dashboard]([./Attrition%20Analytics.png](https://github.com/SaiKrishnaKolusu/PowerBI-Attrition-Dashboard/blob/54341941bac84f1f784d3bc08b56e35c74d4924e/Attrition%20Analytics.png)
+([./Attrition%20Analytics.png](https://github.com/SaiKrishnaKolusu/PowerBI-Attrition-Dashboard/blob/54341941bac84f1f784d3bc08b56e35c74d4924e/Attrition%20Analytics.png)
 
 ## [Retail Sales Analytics Dashboard](https://saikrishnakolusu.github.io/PowerBI-Stores-Sales-Dashboard/)
 
