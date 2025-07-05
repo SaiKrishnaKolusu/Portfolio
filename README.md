@@ -21,6 +21,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 📎 **Screenshot**
 [Fashion Insights](https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard/blob/3b2af29f8a7a4843ed2caf8fbb122d8a1d973d91/Fashion%20Insights.png)
 
+
 ## [Ecommerce Sales Dashboard](https://saikrishnakolusu.github.io/PowerBI-Ecommerce-Sales-Dashboard/)
 
 ## Project Highlights:
@@ -47,8 +48,8 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 **Total Profits through Ecommerce**: Measure the overall success of your ecommerce venture and set ambitious goals.
 
 📎 **Screenshot**
-
 [Ecommerce Sales](https://github.com/SaiKrishnaKolusu/PowerBI-Ecommerce-Sales-Dashboard/blob/f49b2846c8bb25100ae73d5bf16956943d5c946a/Ecommerce%20Sales%20Dashboard.png)
+
 
 ## [Attrition Analytics Dashboard](https://saikrishnakolusu.github.io/PowerBI-Attrition-Dashboard/)
 
@@ -88,8 +89,8 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
   The average tenure before leaving is 7 years, offering insights for improving mid-tenure engagement programs.
 
 📎 **Screenshot**
-
 [Attrition Analytics](https://github.com/SaiKrishnaKolusu/PowerBI-Attrition-Dashboard/blob/54341941bac84f1f784d3bc08b56e35c74d4924e/Attrition%20Analytics.png)
+
 
 ## [Retail Sales Analytics Dashboard](https://saikrishnakolusu.github.io/PowerBI-Stores-Sales-Dashboard/)
 
