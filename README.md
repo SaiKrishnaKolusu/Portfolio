@@ -125,5 +125,9 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 - **COD leads all payment modes** with 42.62%, reflecting customer trust trends  
 - **Consumer segment** drives nearly half of overall business  
 - **Forecast shows sustained growth** entering January 2021, supported by historical peaks in late 2020  
-- **Confidence bands** validate the forecasting reliability for operational and supply planning  
+- **Confidence bands** validate the forecasting reliability for operational and supply planning
+
+[Sales](https://github.com/SaiKrishnaKolusu/PowerBI-Stores-Sales-Dashboard/blob/e1282cba2e48efefb3dab669296f83b7b7a13d0d/Store%20Sales.png)
+
+[Forecast](https://github.com/SaiKrishnaKolusu/PowerBI-Stores-Sales-Dashboard/blob/e1282cba2e48efefb3dab669296f83b7b7a13d0d/Sales%20Forecast.png)
 
