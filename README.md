@@ -49,6 +49,9 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 
 **Total Profits through Ecommerce**: Measure the overall success of your ecommerce venture and set ambitious goals.
 
+📎 **Screenshot**
+
+([https://github.com/SaiKrishnaKolusu/PowerBI-Ecommerce-Sales-Dashboard/blob/f49b2846c8bb25100ae73d5bf16956943d5c946a/Ecommerce%20Sales%20Dashboard.png])
 
 ## [Attrition Analytics Dashboard](https://saikrishnakolusu.github.io/PowerBI-Attrition-Dashboard/)
 
