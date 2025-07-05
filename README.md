@@ -20,7 +20,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 **Custom Metrics**: Dynamic KPIs monitor engagement levels and trends in real time.
 
 📎 **Screenshot**  
-![Fashion Insights](./Fashion Insights.png)
+![Fashion Insights](./Fashion%20Insights.png)
 
 ## [Ecommerce Sales Dashboard](https://saikrishnakolusu.github.io/PowerBI-Ecommerce-Sales-Dashboard/)
 
