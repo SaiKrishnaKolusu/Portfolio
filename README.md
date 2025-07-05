@@ -2,7 +2,6 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 
 ## [Fashion Insights Dashboard](https://saikrishnakolusu.github.io/PowerBI-Fashion-Insights-Dashboard/)
 
-
 ## Project Highlights:
 **Interactive Data Exploration**: This dashboard offers a dynamic experience with slicers and filters for gender, age group, and profession. Users can drill down into trends and personalize visualizations to uncover deeper insights.
 
@@ -20,11 +19,9 @@ Welcome to my portfolio! This repository showcases my skills, projects, and prof
 **Custom Metrics**: Dynamic KPIs monitor engagement levels and trends in real time.
 
 📎 **Screenshot**
-
 [Fashion Insights](https://github.com/SaiKrishnaKolusu/PowerBI-Fashion-Insights-Dashboard/blob/3b2af29f8a7a4843ed2caf8fbb122d8a1d973d91/Fashion%20Insights.png)
 
 ## [Ecommerce Sales Dashboard](https://saikrishnakolusu.github.io/PowerBI-Ecommerce-Sales-Dashboard/)
-
 
 ## Project Highlights:
 **Interactive Data Exploration**: The dashboard offers the ability to drill down into the data using complex parameters, providing users with a seamless experience to customize visualizations using filters and slicers
